@@ -7,6 +7,11 @@ from PyQt6.QtWidgets import QApplication, QWidget, QPushButton, QLabel
 app = QApplication([])
 # Créer un objet QWidget
 fen = QWidget()
+# modifier les parametres de cet objet
+fen.setGeometry(50,50,400,200)
+fen.setWindowTitle("Ma premiere app")
+
+#
 
 
 
