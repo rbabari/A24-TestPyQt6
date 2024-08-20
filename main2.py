@@ -3,6 +3,7 @@
 # importer la librairie
 
 from PyQt6.QtWidgets import QApplication, QWidget, QPushButton, QLabel
+
 # Créer un objet QApplication
 app = QApplication([])
 # Créer un objet QWidget
@@ -11,8 +12,11 @@ fen = QWidget()
 fen.setGeometry(50,50,400,200)
 fen.setWindowTitle("Ma premiere app")
 
-#
-
+# QLabel
+qlbl1 = QLabel(fen)
+qlbl1.setText("Bonjour à toutes et à tous ")
+qlbl1.setStyleSheet("background-color:white;color:red;border:3px solid yellow;font-size:28px;font:broadway")
+qlbl1.setGeometry(10,10,400,200)
 
 
 
