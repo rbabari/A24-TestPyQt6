@@ -1,4 +1,4 @@
-# Partie 1 : Premier exemple avec la librairie PyQt6
+# Partie 1 : Premier    exemple avec la librairie PyQt6
 
 # importer la librairie
 
