@@ -2,7 +2,7 @@
 
 # importer la librairie
 
-from PyQt6.QtWidgets import QApplication, QWidget, QPushButton, QLabel
+from PyQt6.QtWidgets import QApplication, QWidget
 # Créer un objet QApplication
 app = QApplication([])
 # Créer un objet QWidget
