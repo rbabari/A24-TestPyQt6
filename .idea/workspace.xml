@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="435a8f7c-fcaf-489e-81ec-1c40565c3fce" name="Changes" comment="exemple 5 : calculDouble">
-      <change afterPath="$PROJECT_DIR$/images/laptop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main6.py" afterDir="false" />
+    <list default="true" id="435a8f7c-fcaf-489e-81ec-1c40565c3fce" name="Changes" comment="exemple 6 : images">
+      <change afterPath="$PROJECT_DIR$/main7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +75,7 @@
       <recent name="C:\Users\rbaba\PycharmProjects\TestPyQt6" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main6">
+  <component name="RunManager" selected="Python.main7">
     <configuration name="CalculDouble" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TestPyQt6" />
       <option name="ENV_FILES" value="" />
@@ -116,29 +114,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TestPyQt6" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -216,13 +191,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TestPyQt6" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main7" />
         <item itemvalue="Python.main6" />
         <item itemvalue="Python.main5" />
         <item itemvalue="Python.main4" />
         <item itemvalue="Python.CalculDouble" />
-        <item itemvalue="Python.main3" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +241,7 @@
       <option name="presentableId" value="Default" />
       <updated>1724155788777</updated>
       <workItem from="1724155790118" duration="9296000" />
-      <workItem from="1724242216870" duration="1573000" />
+      <workItem from="1724242216870" duration="2571000" />
     </task>
     <task id="LOCAL-00001" summary="premier exemple">
       <option name="closed" value="true" />
@@ -301,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724166737986</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="exemple 6 : images">
+      <option name="closed" value="true" />
+      <created>1724243820413</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724243820413</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,7 +321,8 @@
     <MESSAGE value="exemple 4 : grid btn" />
     <MESSAGE value="exemple 5 : qlineEdit" />
     <MESSAGE value="exemple 5 : calculDouble" />
-    <option name="LAST_COMMIT_MESSAGE" value="exemple 5 : calculDouble" />
+    <MESSAGE value="exemple 6 : images" />
+    <option name="LAST_COMMIT_MESSAGE" value="exemple 6 : images" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -355,6 +362,6 @@
     <SUITE FILE_PATH="coverage/TestPyQt6$main5.coverage" NAME="main5 Coverage Results" MODIFIED="1724242777990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TestPyQt6$main.coverage" NAME="main Coverage Results" MODIFIED="1724157694633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TestPyQt6$main3.coverage" NAME="main3 Coverage Results" MODIFIED="1724160926356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TestPyQt6$main6.coverage" NAME="main6 Coverage Results" MODIFIED="1724243794097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestPyQt6$main6.coverage" NAME="main6 Coverage Results" MODIFIED="1724246090222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
